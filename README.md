@@ -3,7 +3,7 @@
 `pubspec.yaml`:
 
 ```yaml
-  mongol:
+  flutter_keyboard_actions:
     git:
       url: https://github.com/hairhan-tod/flutter_keyboard_actions
       ref: master
